@@ -6,7 +6,7 @@
 
 - 💬 Ask me about *HTML, CSS, Bootstrap, *
 
-- 📫 How to reach me **
+- 📫 How to reach me *kaushikganvir123@gmail.com*
 
 
 
