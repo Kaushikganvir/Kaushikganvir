@@ -7,11 +7,7 @@
 - 💬 Ask me about *HTML, CSS, Bootstrap, *
 
 - 📫 How to reach me:
--Mail:- kaushikganvir123@gmail.com
-linkdin:- https://www.linkedin.com/in/kaushik-ganvir-289549243/
-facebook:-https://m.facebook.com/profile.php?id=100029841436199&__n=K
-Twitter:- @Ganvirkodo
-Instagram:- kaushikk.21
+-Mail:-*kaushikganvir123@gmail.com*
 
 
 
