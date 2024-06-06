@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **Html, Css, Bootstrap, javascript**
+- 💬 Ask me about **Html, Css, Bootstrap**
 
 - 📫 How to reach me **kaushikganvir123@gmail.com**
 
